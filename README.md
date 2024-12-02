@@ -41,7 +41,7 @@ This project demonstrates running a java application as `docker container` by us
 ### 🥡 Clone Project
 * Clone the repo
    ```sh
-   git clone https://github.com/yewin-mmr/spring-boot-docker-compose-sample.git
+   git clone https://github.com/yoonmyatphoo-mmr/spring-boot-docker-compose-sample.git
    ```
 <a name="prerequisites"></a>
 ### 🔑 Prerequisites
