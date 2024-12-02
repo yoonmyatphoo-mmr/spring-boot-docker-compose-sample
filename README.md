@@ -1,7 +1,5 @@
 # spring-boot-docker-compose-sample
-<img src = "https://github.com/yoonmyatphoo-mmr/spring-boot-docker-compose-sample/blob/main/docker-compose.jpg?raw=true" alt="super-necessary" style="width:100%;">
-
-https://github.com/yoonmyatphoo-mmr/spring-boot-docker-compose-sample/blob/main/docker-compose.jpg
+<img src = "https://github.com/yoonmyatphoo-mmr/spring-boot-docker-compose-sample/blob/main/6226574214438174853.jpg?raw=true" alt="super-necessary" style="width:100%;">
 
 * This is the sample project for spring-boot using docker compose and build dockerized application.
 * Docker Compose is to manage one or many containerized applications in one configuration file called `docker-compose.yml` and you can easily build and run your applications by using that file.
