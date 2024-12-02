@@ -1,6 +1,6 @@
 # spring-boot-docker-compose-sample
 <h1 align="center">
-  <img src="https://github.com/yoonmyatphoo-mmr/spring-boot-docker-compose-sample/blob/master/github/template/images/overview/spring_boot_docker_compose.webp" /><br/>
+  ![Uploading docker-compose.jpg…]()  <br/>
 </h1>
 
 * This is the sample project for spring-boot using docker compose and build dockerized application.
