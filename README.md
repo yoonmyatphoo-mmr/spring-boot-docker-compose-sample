@@ -117,7 +117,7 @@ After the application is running, test it by visiting:
 Name - Yoon Myat Phoo <br> 
 LinkedIn profile -  [Yoon Myat Phoo's LinkedIn](https://www.linkedin.com/in/yoon-myat-phoo-9b32531b7/)  <br> 
 Email Address - <a href="mailto:yoonmyatphoo.mmr@gmail.com?">yoonmyatphoo.mmr@gmail.com</a> <br> 
-WhatsApp - [+959252656065](https://wa.me/959252656065?text=Hi) <br> 
+WhatsApp - [+959962287200](https://wa.me/959962287200?text=Hi) <br> 
 
 Project Link: [Spring Boot Docker Compose Sample](https://github.com/yoonmyatphoo-mmr/spring-boot-docker-compose-sample)
 
